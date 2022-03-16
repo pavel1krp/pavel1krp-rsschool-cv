@@ -8,4 +8,4 @@
 ## Html, css, basic knowledge of js.
 ## I don't have work experience.
 ## I have no education related to it.
-## Elementary English level.
+## Elementary English level
